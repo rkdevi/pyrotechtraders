@@ -1,0 +1,191 @@
+@font-face {
+  font-family: Alata;
+  src: url(fonts/Alata/Alata-Regular.ttf);
+}
+
+body {
+  font-family: Alata;
+  /* font-size:15px; rk*/
+  font-size:15px;
+  width:100%;
+  height:100%;
+  margin:0px;
+  background:#fff;
+  color:#000;
+}
+
+header {
+  height:100px;
+  line-height:100px; 
+  width:100%;
+  text-align:center;
+  font-size:30px;
+  border-bottom:1px solid #ccc;
+}
+
+footer {
+  height:35px;
+  line-height:35px;
+  text-align:center;
+  width:100%;
+  font-size:15px;
+  border-top:1px solid #ccc;
+}
+
+#container {
+  height:calc(100% - 137px);
+  width:100%;
+  overflow-y:auto;
+  overflow-x:hidden;
+}
+
+#content-container {
+  width: calc(100% - 20px);
+  margin:10px auto;
+  text-align:center;
+}
+
+td input[type=text] {
+  /* font-size:15px; rk*/
+  font-size:15px;
+  font-family: Alata;
+  margin:0px;
+  width:100%;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #C4001A;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: Alata;
+  /* font-size: 18px; rk*/
+  font-size: 18px;
+}
+
+table, td, th {
+  border: 1px solid #000;
+  margin:10px auto;
+  font-size:15px;
+}
+
+table {
+  border-collapse: collapse;
+  width:100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #000;
+}
+
+tr:nth-child(even){background-color: #ddd}
+
+th {
+  background-color: #C4001A;
+  color: #fff;
+  text-align:center;
+  font-size:18px;
+  border: 1px solid #000;
+}
+
+#contact {
+  border:none;
+}
+
+.numbers {
+  /* text-align:right; */
+  text-align:center;
+  width:10%;
+}
+
+.in_qty {
+  text-align:center;
+}
+
+.header_images {
+  width:80px;
+  height:80px;
+  margin:10px 20px;
+}
+
+#discount_image {
+  width:80px;
+  height:80px;
+  margin:10px 20px;
+  float:right;
+}
+
+.header_image_left {
+  float:left;
+}
+
+.header_image_right {
+  float:right;
+}
+
+#product-list {
+  display:block;
+}
+
+#cart {
+  display:None;
+}
+
+#contact {
+  display:None;
+}
+
+#result {
+  display:None;
+}
+
+#order-status {
+  margin:15px;
+}
+
+.heading {
+  font-size:22px;
+  margin:15px;
+}
+/* ===========RK==Sticky headers=================*/
+
+th { 
+  padding: 0px; 
+  position: -webkit-sticky; 
+  position: sticky; 
+  top: 0; 
+  height:70px;
+} 
+/* =============Total display=================*/
+.description{
+  text-align:left;
+  width:30%; 
+
+}
+.category{
+  text-align:left;
+  width:20%;
+}
+.total_lable {
+  width:300px;
+  color:red;
+  float:right;
+}
+/*============================== */
+.gruop_header{
+  border-bottom: 1px solid #000000;
+  border-left: 2px double #000000;
+  border-right: 1px solid #000000;
+  text-align:center;
+  font-size:16px;
+  background-color: #92D050;
+}
+ /* #content tr > *:nth-child(2) {
+  display: none;
+}   */
+
