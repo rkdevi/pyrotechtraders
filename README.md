@@ -1,4 +1,4 @@
-***[PyroTechTraders -Cracker Sale Management System](https://pyrotechtraders.000webhostapp.com/)***   - Click to see Web Site
+***[PyroTechTraders -Cracker Sale Management System](https://pyrotechtraders.000webhostapp.com/)***  
 
  
 Cracker Sale Management System is a mini project for online crackers shop. It's a single page application. Retail sellers can get pre orders from the customers. Customers create orders for crackers. After completion of the order, customer get a mail with full details of that order.The order details and customer details stored in database. Admin manages the orders in admin panel. 
@@ -33,3 +33,10 @@ MySQL : MySql is a database, widely used for accessing querying, updating, and m
 _Server Requirement :_ 
 
 XAMPP Server (Used for this project)
+
+_Website Link :_
+
+[PyroTechTraders - Online Shop](https://pyrotechtraders.000webhostapp.com/)
+
+[PyroTechTraders -Admin Panel](https://pyrotechtraders.000webhostapp.com/admin)
+
