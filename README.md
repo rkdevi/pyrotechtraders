@@ -38,5 +38,5 @@ _Website Link :_
 
 [PyroTechTraders - Online Shop](https://pyrotechtraders.000webhostapp.com/)
 
-[PyroTechTraders -Admin Panel](https://pyrotechtraders.000webhostapp.com/admin)
+[PyroTechTraders -Admin Panel](https://pyrotechtraders.000webhostapp.com/crackeradmin)
 
