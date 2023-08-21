@@ -1,6 +1,6 @@
 ***[PyroTechTraders -Cracker Sale Management System](https://pyrotechtraders.000webhostapp.com/)***  
 
--It's not in live.Hosted the app in a free web hosting server.@@
+- ![#f03c15] It's not in live.Hosted the app in a free web hosting server.[#f03c15]
 
 Cracker Sale Management System is a mini project for an online crackers shop. It's a single-page application. Retail sellers can get pre-orders from customers. Customers create orders for crackers. After completion of the order, the customer gets a mail with full details of that order. The order details and customer details are stored in a database. Admin manages the orders in the admin panel. 
 
